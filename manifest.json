@@ -1,0 +1,10 @@
+﻿{
+    "product": "AVAIA Launcher",
+    "channel": "stable",
+    "version": "1.0.0",
+    "minimum_version": "1.0.0",
+    "download_url": "",
+    "sha256": "",
+    "file_size": 0,
+    "release_notes": "Primeira versão pública do AVAIA Launcher."
+}
